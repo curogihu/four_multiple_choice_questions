@@ -1,0 +1,13 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctOption": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+      "correctOption": "Jupiter"
+    }
+  ]
+  
